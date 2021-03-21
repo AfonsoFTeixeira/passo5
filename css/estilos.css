@@ -17,3 +17,7 @@ th {
   background-color: #add9e0;
   color: white;
 }
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
